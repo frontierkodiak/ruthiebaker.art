@@ -36,6 +36,8 @@
   padding: 5px 10px;
 }
 
+
+
 /*
   Responsiveness with a dropdown menu
 */
@@ -47,6 +49,7 @@
   .dropdown-content {
     display: none;
   }
+
 }
 @media (max-width: $container-width) {
   .menu-list {

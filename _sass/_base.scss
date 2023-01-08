@@ -15,31 +15,31 @@ dl, dd, ol, ul, figure {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  margin-bottom: .25rem;
   font-weight: bold;
   line-height: 1.25;
   text-rendering: optimizeLegibility;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 0.75rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 0.65rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
-  font-size: 1rem;
+  font-size: 0.5rem;
 }
 
 /* Body */
 body {
-  font-family: $base-font-family;
+  font-family: 'Helvetica Neue', -apple-system, BlinkMacSystemFont, Arial, 'Segoe UI', Ubuntu, Oxygen, Roboto, Cantarell, 'Open Sans', sans-serif;
 }
 body img {
   align: middle;
