@@ -4,4 +4,9 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+<img src="/assets/img/process/process-6.jpg" alt="Description of image">
+
+
+Thank you for visiting my website! If you have any questions or would like to work with me, please feel free to get in touch by emailing [me](mailto:ruthbaker@umass.edu). You can also find me on social media using the links below.W
+
+I look forward to hearing from you!
